@@ -42,24 +42,24 @@ Every component has been structurally integrated to maintain pristine signal int
 Digital input/output pins that natively support hardware PWM have been mapped out to prevent signal jitter and guarantee exact angular displacement:
 
 1. **Servo Motor 1:**
-   * Signal Wire (Yellow/Orange) ➡️ **Digital Pin 9 (PWM)** on Arduino.
+   * Signal Wire (Yellow) ➡️ **Digital Pin 9 (PWM)** on Arduino.
    * Power Wire (Red) ➡️ Positive (+) Rail on Breadboard.
-   * Ground Wire (Brown/Black) ➡️ Negative (-) Rail on Breadboard.
+   * Ground Wire (Black) ➡️ Negative (-) Rail on Breadboard.
 
 2. **Servo Motor 2:**
-   * Signal Wire (Yellow/Orange) ➡️ **Digital Pin 10 (PWM)** on Arduino.
+   * Signal Wire (Yellow) ➡️ **Digital Pin 10 (PWM)** on Arduino.
    * Power Wire (Red) ➡️ Positive (+) Rail on Breadboard.
-   * Ground Wire (Brown/Black) ➡️ Negative (-) Rail on Breadboard.
+   * Ground Wire (Black) ➡️ Negative (-) Rail on Breadboard.
 
 3. **Servo Motor 3:**
-   * Signal Wire (Yellow/Orange) ➡️ **Digital Pin 11 (PWM)** on Arduino.
+   * Signal Wire (Yellow) ➡️ **Digital Pin 11 (PWM)** on Arduino.
    * Power Wire (Red) ➡️ Positive (+) Rail on Breadboard.
-   * Ground Wire (Brown/Black) ➡️ Negative (-) Rail on Breadboard.
+   * Ground Wire (Black) ➡️ Negative (-) Rail on Breadboard.
 
 4. **Servo Motor 4:**
-   * Signal Wire (Yellow/Orange) ➡️ **Digital Pin 6 (PWM)** on Arduino.
+   * Signal Wire (Yellow) ➡️ **Digital Pin 6 (PWM)** on Arduino.
    * Power Wire (Red) ➡️ Positive (+) Rail on Breadboard.
-   * Ground Wire (Brown/Black) ➡️ Negative (-) Rail on Breadboard.
+   * Ground Wire (Black) ➡️ Negative (-) Rail on Breadboard.
 
 ---
 
@@ -86,7 +86,4 @@ Digital input/output pins that natively support hardware PWM have been mapped ou
 ## 🎥 Media & Documentation
 
 * **Interactive Tinkercad Simulation Link:** [Click here to view and run the live schematic on Tinkercad](https://www.tinkercad.com/things/ahTlGQhxtzC-multi-servo-sweep-hold-system?sharecode=BphMW_4GQIAqwUrX1roOdkkti5bM3Lq0ZpofMgiG0Ko)
-* **Circuit Wiring Schematic Overview:**
-  ![wiring setup](https://raw.githubusercontent.com/YourGitHubUsername/YourRepoName/main/Multi-Servo%20Sweep%20%26%20Hold%20System%20pic%202.png)
-* **Simulation Workspace & Code Execution:**
-  ![simulation run](https://raw.githubusercontent.com/YourGitHubUsername/YourRepoName/main/Multi-Servo%20Sweep%20%26%20Hold%20System%20pic%203.png)
+
